@@ -8,7 +8,7 @@ namespace MVCTestProject3.Controllers
 {
     public class DemoController : Controller
     {
-       public string Index()
+        public string Index()
         {
             return "Hello from Demo Controller - Index Action Method";
         }
